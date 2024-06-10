@@ -3,7 +3,6 @@ package homework.buy.service;
 import homework.buy.model.Person;
 import homework.buy.repository.PersonRepo;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
